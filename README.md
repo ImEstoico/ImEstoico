@@ -49,4 +49,6 @@ Aquí dejo una lista de lo que sé hacer:
 
 ---
 
-🔧 **¡Encantado de conectar!** Si quieres hablar de hardware, programación o colaborar en algo, ¡aquí estoy! 😊  
+🔧 **¡Encantado de conectar!** Si quieres hablar de hardware, programación o colaborar en algo, ¡aquí estoy! 😊 
+
+** bajo tienes un repo con una presentacion un poco mas extensa ** 
