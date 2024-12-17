@@ -1,18 +1,52 @@
-🖐️ ¡Hola, soy Estoico (o "El Cojo" para los colegas)! 👨‍💻 ¿Quién soy? Soy un programador junior que está empezando a escribir código, pero que ya sabe desmontar un PC a ojos cerrados (y volver a montarlo sin piezas de más, claro). Técnico en Sistemas Microinformáticos y Redes (SMR), y ahora mismo estudiando Desarrollo de Aplicaciones Web (DAW), donde andamos peleándonos con Java y aprendiendo a sobrevivir entre clases, métodos y errores de compilación.
+# 🖐️ **¡Hola, soy Estoico!** *(también conocido como "El Cojo")*  
 
-También tengo nociones de Python, porque uno nunca sabe cuándo hay que "scriptar" algo rápido.
+---
 
-🛠️ ¿Qué se me da realmente bien? Lo mío es el hardware, ahí no hay error 404 que valga:
+## 👨‍💻 **¿Quién soy?**  
+Soy un programador junior que está dando sus primeros pasos en la programación, pero puedo **desmontar y montar un PC como nadie**.  
 
-Montaje de ordenadores personalizados 🖥️ Setups decorativos dignos de Instagram 🌟 Overclocking para exprimir la potencia al máximo 🚀 Refrigeración líquida (custom), porque los PCs también necesitan refrescarse 🧊 Además, edito videos como un pro. Ya sea para mostrar un setup en todo su esplendor, un montaje de clips o darle vida a contenido para Twitch, ¡me encargo de dejarlo pulido! 🎥
+- 🎓 **Título**: Técnico en Sistemas Microinformáticos y Redes *(SMR)*  
+- 📚 **Actualmente estudiando**: Desarrollo de Aplicaciones Web *(DAW)*  
+- 💻 **Lenguajes**: Peleándome con **Java** y aprendiendo día a día.  
 
-Si tiene chips, cables, LEDs o efectos de edición, yo me encargo.
+También tengo nociones de **Python** porque nunca está de más automatizar algo rápido.  
 
-🎮 ¿Algo más? Además de programar y cacharrear con hardware, soy un exjugador profesional de Apex Legends, así que si me ves en el servidor, mejor que no estés en mi rango. 🏆
+---
 
-En mi tiempo libre, también hago streams en Twitch (sí, soy multitarea):
+## 🛠️ **¿Qué se me da realmente bien?**  
+Lo mío es el **hardware** y todo lo relacionado con el mundo tecnológico:  
+- 🖥️ **Montaje de ordenadores personalizados**  
+- 🌟 **Decoración y optimización de setups**  
+- 🚀 **Overclocking** para sacar el máximo rendimiento  
+- 🧊 **Refrigeración líquida custom**  
 
-Hardware, gaming y alguna que otra charla estoica (guiño guiño). 🚀 ¿Qué puedes esperar de mí? Soy alguien que aprende rápido y que no le tiene miedo a un pantallazo azul ni a un error 500. Mi objetivo ahora es mejorar como programador, seguir creando contenido y fusionar ese mundo con mi pasión por el hardware.
+Además, me defiendo bastante bien en **edición de video**:  
+- 🎥 **DaVinci Resolve** y **Photoshop**  
+- 🎙️ **Audacity** para audio  
 
-🔧 ¿Hablamos o colaboramos? ¡Encantado de conectar! Aquí siempre hay espacio para un pull request interesante. 😊
+---
 
+## 🎮 **¿Algo más sobre mí?**  
+En mi tiempo libre, hago **streams en Twitch** donde combino:  
+- 🎮 **Gaming**  
+- 🛠️ **Hardware**  
+- 💬 Alguna que otra charla **estoica** *(guiño, guiño)*  
+
+---
+
+## 🚀 **Mis habilidades**  
+Aquí dejo una lista de lo que sé hacer:  
+- **Lenguajes**: Java, Python  
+- **Hardware**: Montaje, setups personalizados, overclocking  
+- **Edición de video**: DaVinci Resolve, Photoshop, Audacity  
+
+---
+
+## 🌐 **¿Dónde encontrarme?**  
+- 🌍 **Página web**: [inktr.ee/imestoico](https://inktr.ee/imestoico)  
+- 🐦 **Twitter**: [@ImEstoico\_](https://twitter.com/ImEstoico_)  
+- 📸 **Instagram (Hardware)**: [@estoico.hardware](https://instagram.com/estoico.hardware)  
+
+---
+
+🔧 **¡Encantado de conectar!** Si quieres hablar de hardware, programación o colaborar en algo, ¡aquí estoy! 😊  
