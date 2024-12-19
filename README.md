@@ -53,4 +53,3 @@ Aquí dejo una lista de lo que sé hacer:
 
 ** debajo tienes un repo con una presentacion un poco mas extensa y mas personal, aunque aviso, menos profesional, soy mas yo mismo  ** 
 
-- 🌐 **Otra Presentación**: [Aqui!]([https://instagram.com/estoico.hardware](https://github.com/ImEstoico/Presentacion))  
