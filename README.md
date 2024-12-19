@@ -52,4 +52,5 @@ Aquí dejo una lista de lo que sé hacer:
 🔧 **¡Encantado de conectar!** Si quieres hablar de hardware, programación o colaborar en algo, ¡aquí estoy! 😊 
 
 ** debajo tienes un repo con una presentacion un poco mas extensa y mas personal, aunque aviso, menos profesional, soy mas yo mismo  ** 
-🌐 **Otra Presentación**: [ AQUI!]([https://inktr.ee/imestoico](https://github.com/ImEstoico/Presentacion))  
+
+- 🌐 **Otra Presentación**: [Pulsa Aqui!]([https://instagram.com/estoico.hardware](https://github.com/ImEstoico/Presentacion))  
